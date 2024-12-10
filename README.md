@@ -34,14 +34,8 @@ A simulação executa diferentes números de passos, de 1 até 100, e salva as d
    - O programa gera um arquivo chamado `distancias.csv` contendo duas colunas:
      - **Passos**: Número de passos realizados.
      - **Distancia Media**: Distância média da origem calculada após múltiplas simulações.
-   - O arquivo pode ser importado para ferramentas como Excel, Python (pandas), ou R para visualização gráfica e análise.
+   - O arquivo pode ser importado para ferramentas como Excel, Python (pandas) para visualização gráfica e análise.
 
-## Funcionalidades
-
-- **Simulação de Caminhadas**: Caminhadas aleatórias bidimensionais com direções igualmente prováveis.
-- **Cálculo de Distância Euclidiana**: Determina a distância entre o ponto final da caminhada e a origem.
-- **Repetições para Precisão**: Realiza múltiplas simulações para obter uma média estatisticamente confiável.
-- **Exportação de Dados**: Salva os resultados em formato CSV para análise externa.
 
 ## Créditos
 Este projeto foi desenvolvido por:
